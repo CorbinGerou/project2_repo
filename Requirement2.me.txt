@@ -1,0 +1,10 @@
+Project Description:
+
+	This projected is a basic website that allows you to add and edit list items similar to a "Reminders" app
+
+Features List:
+
+	It includes a functions which allows the user to click on current text and edits it's contents, a function which then keeps the new text, 
+	a function which uses a conditional statment to allow the user to press the "enter" key to update text, and a function which allows the 
+	creation of a new li element onclick of the "Add Item" button. 
+ 
